@@ -46,7 +46,15 @@ export default function Home() {
           </a>
         </div>
         {/* copyright */}
-        <div>Feito com 💜 por CloudDesign</div>
+        <div>
+          Feito com 💜 por{' '}
+          <a
+            href="https://www.instagram.com/clouddesignmkt/"
+            className="underline"
+          >
+            CloudDesign
+          </a>
+        </div>
       </div>
 
       {/* rigth */}
